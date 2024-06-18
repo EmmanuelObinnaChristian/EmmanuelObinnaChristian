@@ -1,0 +1,64 @@
+.body{
+  background:#7b2bff;
+  color: white;
+  margin: 0px;
+  padding: 0px;
+  height: 1000px;
+}
+
+.container{
+  height:300px;
+  width: 330px;
+  margin: 190px 50px 50px 18px;
+  background: white;
+  color: black;
+  border: none;
+  border-radius: 24px;
+  box-shadow: 2px 2px 1px black;
+}
+
+
+.header{
+  text-align: center;
+  font-size: 20px;
+  text-weight: bold;
+  margin-top: 10px;
+}
+
+#quote{
+  text-align: center;
+  font-size: 20px;
+  text-weight: bold;
+}
+
+#author{
+  font-size: 14px;
+  float: right;
+  margin-top: 20px;
+}
+
+.next-button{
+    background: #081c07;
+    color: white;
+    height: 28px;
+    width: 100px;
+    align-items: center;
+    border:none;
+    border-radius: 4px;
+    margin: 60px 30px 0px 100px;
+}
+
+/*
+I'll work on that later 
+.previous-button{
+    background: #081c07;
+    color: white;
+    height: 28px;
+    width: 100px;
+    align-items: center;
+    border:none;
+    border-radius: 4px;
+    margin: 80px 30px 0px 20px;
+}
+
+*/
